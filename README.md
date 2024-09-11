@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @o-lucascarvalho
-- 👀 I’m a passionate in data world
-- 🌱 My life goal is became a Data Scientist and I will get this position soon.
+- 👋 Hi, my name is Lucas Carvalho.
+- 👀 I’m a passionate in data world, a Data Scientist with strong background in data enginnering and data visualization.
 - 📫 You can reach me on the e-mail lucas130421@gmail.com or on my Linkedin profile linkedin.com/in/olucas-carvalho
 
 <!---
